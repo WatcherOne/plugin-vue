@@ -3,6 +3,7 @@
 ## vue-hover-text
 
 > install dependencies
+
 npm install hoverText --save -dev
 
 > 使用组件参数说明
