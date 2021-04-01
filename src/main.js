@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import App from '../src/test/hoverText.vue'
+import App from '../src/test/index.vue'
 
 new Vue({
   el: '#app',
