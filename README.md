@@ -1,6 +1,6 @@
 # Vue plugin project
 
-## vue-hover-text
+## hover-text
 
 > 下载组件依赖
 
@@ -25,7 +25,3 @@ npm run dist ==== 生成打包的JS文件, 直接引入即可
 > dom 组件使用
 
 `<hoverText maxWidth='200px' :htmlText='false'>测试数据过长情况</hoverText>`
-
-### extra
-
-npm publish --- 发布插件
