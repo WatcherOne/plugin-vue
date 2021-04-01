@@ -1,7 +1,7 @@
 {
   "name": "hover-text",
   "description": "A Vue's plugin of hover-text",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": "zhubo <286154864@qq.com>",
   "license": "MIT",
   "main": "dist/hoverText.js",
