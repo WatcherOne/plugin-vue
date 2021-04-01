@@ -10,8 +10,8 @@
 <script>
 // <!-- 本地开发插件的使用 -->
 import Vue from 'vue'
-// import hoverText from '../plugin/hover-text.js'
-import hoverText from '../../dist/hoverText.js'
+import hoverText from '../plugin/hover-text.js'
+// import hoverText from '../../dist/hoverText.js'
 
 Vue.use(hoverText)
 
